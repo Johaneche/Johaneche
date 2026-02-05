@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Johaneche/Johaneche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 
 ##
 
-<h1 align="center">Hi there, My name is Johan Manuel</h1>
+<h1 align="center">Hi there 👋, My name is Johan Manuel</h1>
 <h3 align="center">I am a passionate Front-End Developer from Colombia</h3>
 
 - **💬 About me**:
