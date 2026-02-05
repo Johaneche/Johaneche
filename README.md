@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, My name is Johan Manuel</h1>
 <h3 align="center">I am a passionate Front-End Developer from Colombia</h3>
 
- **💬 About me**:
-Junior Front-End Developer with skills in **JavaScript, HTML, and CSS**, and experience using frameworks such as **React and Node.js**. Focused on developing responsive and scalable components, applying UI best practices, and committed to delivering clean, efficient, and maintainable code. 
+<p> **💬 About me**</p>
+Junior Front-End Developer with skills in **JavaScript, HTML, and CSS**, and experience using frameworks such as **React and Node.js**. Focused on developing responsive and scalable components, applying UI best practices, and committed to delivering clean, efficient, and maintainable code.
 
 **📫 How to reach me:**
 johan.manuel.echeverry@gmail.com
