@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 </p>
 
 
-**📫 How to reach me:**
-johan.manuel.echeverry@gmail.com
+<h4>📫 How to reach me:</h4>
+<p>johan.manuel.echeverry@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
