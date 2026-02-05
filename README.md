@@ -18,17 +18,18 @@ Here are some ideas to get you started:
 
 ##
 
-<h1 align="center">Hi, My name es Johan Manuel</h1>
-<h3 align="center">Soy un Front-End apasionado de Colombia</h3>
+<h1 align="center">Hi there, My name is Johan Manuel</h1>
+<h3 align="center">I am a passionate Front-End Developer from Colombia</h3>
 
 - **💬 About me**:
 - Junior Front-End Developer with skills in **JavaScript, HTML, and CSS**, and experience using frameworks such as **React and Node.js**. Focused on developing responsive and scalable components, applying UI best practices, and committed to delivering clean, efficient, and maintainable code. 
 
 - **📫 How to reach me:**
-- johan.manuel.echeverry@gmail.com**
+- johan.manuel.echeverry@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/johan-manuel-echeverry-74511782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/johan-manuel-echeverry-74511782" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
