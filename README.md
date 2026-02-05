@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, My name is Johan Manuel</h1>
 <h3 align="center">I am a passionate Front-End Developer from Colombia</h3>
 
-- **💬 About me**:
-- Junior Front-End Developer with skills in **JavaScript, HTML, and CSS**, and experience using frameworks such as **React and Node.js**. Focused on developing responsive and scalable components, applying UI best practices, and committed to delivering clean, efficient, and maintainable code. 
+ **💬 About me**:
+Junior Front-End Developer with skills in **JavaScript, HTML, and CSS**, and experience using frameworks such as **React and Node.js**. Focused on developing responsive and scalable components, applying UI best practices, and committed to delivering clean, efficient, and maintainable code. 
 
-- **📫 How to reach me:**
-- johan.manuel.echeverry@gmail.com
+**📫 How to reach me:**
+johan.manuel.echeverry@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,19 +36,6 @@ Here are some ideas to get you started:
 
 ##
 
-
-<div align="center">
-<h1 align="center">Hola, soy <a href="">Johan Manuel Echeverry</a> 👋</h1>
-</div>
-
-
-## Sobre mi
-
-- ⭐ Web Developer  ⭐ 
-- 📲 Front-End developer
-- ✏️ Back-End developer
-
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
